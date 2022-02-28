@@ -71,7 +71,7 @@
 .header__square-pic { /* синий фон для картинки опять двойка */
   	width: 568px;
   	height: 568px;
-  	background-color: #2f80ed;  
+  	background-color: #2f80ed;
 	position: absolute;
 	top: 64px;
 	right: 0;
@@ -245,11 +245,11 @@ font-weight: normal;
 
 .section-title_theme_dark {
 	margin-top: 90px;
-	color: white
+	color: white;
 }
 
 .section-subtitle_theme_dark {
-	color: white
+	color: white;
 }
 
 .table_theme_dark {
@@ -278,8 +278,8 @@ font-weight: normal;
 	display: flex;
 	justify-content: center;
 	background-color: #1f1f1f;
-	min-height: 350px; 
-	padding: 60px 0 40px; 
+	min-height: 350px;
+	padding: 60px 0 40px;
 }
 
 .footer__columns {
