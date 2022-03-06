@@ -227,7 +227,7 @@ li
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	background-color:#f2f2f2; 
+	background-color:#f2f2f2;
 	z-index: 0;
 }
 
@@ -281,7 +281,7 @@ ul {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	background-color: #1f1f1f; 
+	background-color: #1f1f1f;
 	position: relative;
 	z-index: 0;
 	overflow: hidden;
@@ -343,7 +343,7 @@ ul {
 	flex-direction: column;
 }
 
-.content_copyright {
+.footer__column_content_copyright {
 	flex-basis: 711px;
 	justify-content: space-between;
 }
