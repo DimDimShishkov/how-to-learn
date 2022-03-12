@@ -1,0 +1,9 @@
+.header__square-pic { /* синий фон для картинки опять двойка */
+    min-width: 568px;
+    min-height: 568px;
+    background-color: #2f80ed;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    animation: rotation 20s linear infinite;
+  }
