@@ -3,13 +3,13 @@
     height: 38px;
     margin: 0;
     padding: 0;
-  }
-
-  .resources__logo:hover {
-    opacity: 0.5;
     transition: opacity 0.3s linear;
     -webkit-transition: opacity 0.3s linear;
     -moz-transition: opacity 0.3s linear;
     -ms-transition: opacity 0.3s linear;
     -o-transition: opacity 0.3s linear;
+  }
+
+  .resources__logo:hover {
+    opacity: 0.5;
   }

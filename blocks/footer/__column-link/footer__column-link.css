@@ -7,4 +7,13 @@
   justify-content: center;
   text-decoration: none;
   color: white;
+  transition: opacity 0.3s linear;
+  -webkit-transition: opacity 0.3s linear;
+  -moz-transition: opacity 0.3s linear;
+  -ms-transition: opacity 0.3s linear;
+  -o-transition: opacity 0.3s linear;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
 }
